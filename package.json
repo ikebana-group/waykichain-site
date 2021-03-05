@@ -1,0 +1,15 @@
+{
+  "name": "qaxd-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ikebana-group/qaxd-site.git",
+  "author": "ikebana-group@qq.com",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
