@@ -1,4 +1,4 @@
 # waykichain-site
- - https://waykichain.cc
+ - http://waykichain.cc
 
- - https://waykichain.cn
+ - http://waykichain.cn
