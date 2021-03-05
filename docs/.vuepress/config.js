@@ -1,6 +1,6 @@
 module.exports = {
   base: '/',
-  title: 'qaxd.design',
+  title: 'waykichain-site',
   dest: 'public',
   themeConfig: {
     nav: [

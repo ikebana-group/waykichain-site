@@ -1,8 +1,8 @@
 {
-  "name": "qaxd-site",
+  "name": "waykichain-site",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ikebana-group/qaxd-site.git",
+  "repository": "https://github.com/ikebana-group/waykichain-site.git",
   "author": "ikebana-group@qq.com",
   "license": "MIT",
   "scripts": {
